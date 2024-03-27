@@ -1,0 +1,49 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript compiled files
+dist/
+build/
+out/
+
+# Coverage directory used by tools like Istanbul
+coverage/
+
+# Playwright's test output
+test-results/
+playwright-report/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.cache
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
